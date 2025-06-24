@@ -15,7 +15,7 @@ p{
 header{
     font-size: 50px;
     border: solid 2px rgb(42, 122, 228);
-    padding: 20px;
+    margin: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
